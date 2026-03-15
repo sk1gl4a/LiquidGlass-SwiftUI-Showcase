@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode user data & мусор
+xcuserdata/
+DerivedData/
+build/
+*.xccheckout
+*.xcscmblueprint
+
+# Workspace user data
+*.xcworkspace/xcuserdata/
+
+# SwiftPM
+.build/
