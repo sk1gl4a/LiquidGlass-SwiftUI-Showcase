@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		9AF13D612EBE6E5500843174 /* LiquidGlassButtonExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiquidGlassButtonExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AF13D612EBE6E5500843174 /* LiquidGlassShowcase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiquidGlassShowcase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		9AF13D632EBE6E5500843174 /* LiquidGlassButtonExample */ = {
+		9AF13D632EBE6E5500843174 /* LiquidGlassShowcase */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = LiquidGlassButtonExample;
+			path = LiquidGlassShowcase;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		9AF13D582EBE6E5500843174 = {
 			isa = PBXGroup;
 			children = (
-				9AF13D632EBE6E5500843174 /* LiquidGlassButtonExample */,
+				9AF13D632EBE6E5500843174 /* LiquidGlassShowcase */,
 				9AF13D622EBE6E5500843174 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		9AF13D622EBE6E5500843174 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9AF13D612EBE6E5500843174 /* LiquidGlassButtonExample.app */,
+				9AF13D612EBE6E5500843174 /* LiquidGlassShowcase.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9AF13D602EBE6E5500843174 /* LiquidGlassButtonExample */ = {
+		9AF13D602EBE6E5500843174 /* LiquidGlassShowcase */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9AF13D6C2EBE6E5700843174 /* Build configuration list for PBXNativeTarget "LiquidGlassButtonExample" */;
+			buildConfigurationList = 9AF13D6C2EBE6E5700843174 /* Build configuration list for PBXNativeTarget "LiquidGlassShowcase" */;
 			buildPhases = (
 				9AF13D5D2EBE6E5500843174 /* Sources */,
 				9AF13D5E2EBE6E5500843174 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				9AF13D632EBE6E5500843174 /* LiquidGlassButtonExample */,
+				9AF13D632EBE6E5500843174 /* LiquidGlassShowcase */,
 			);
-			name = LiquidGlassButtonExample;
+			name = LiquidGlassShowcase;
 			packageProductDependencies = (
 			);
 			productName = LG;
-			productReference = 9AF13D612EBE6E5500843174 /* LiquidGlassButtonExample.app */;
+			productReference = 9AF13D612EBE6E5500843174 /* LiquidGlassShowcase.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9AF13D5C2EBE6E5500843174 /* Build configuration list for PBXProject "LiquidGlassButtonExample" */;
+			buildConfigurationList = 9AF13D5C2EBE6E5500843174 /* Build configuration list for PBXProject "LiquidGlassShowcase" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9AF13D602EBE6E5500843174 /* LiquidGlassButtonExample */,
+				9AF13D602EBE6E5500843174 /* LiquidGlassShowcase */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9AF13D5C2EBE6E5500843174 /* Build configuration list for PBXProject "LiquidGlassButtonExample" */ = {
+		9AF13D5C2EBE6E5500843174 /* Build configuration list for PBXProject "LiquidGlassShowcase" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9AF13D6A2EBE6E5700843174 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9AF13D6C2EBE6E5700843174 /* Build configuration list for PBXNativeTarget "LiquidGlassButtonExample" */ = {
+		9AF13D6C2EBE6E5700843174 /* Build configuration list for PBXNativeTarget "LiquidGlassShowcase" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9AF13D6D2EBE6E5700843174 /* Debug */,

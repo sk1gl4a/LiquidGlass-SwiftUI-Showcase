@@ -98,7 +98,7 @@ Tab(role: .search) { ... }
 ```bash
 git clone https://github.com/sk1gl4a/LiquidGlass-Showcase.git
 cd LiquidGlass-Showcase
-open LiquidGlassButtonExample.xcodeproj
+open LiquidGlassShowcase.xcodeproj
 ```
 
 1. Select an **iOS 26 Simulator** (or connected device running iOS 26) as the run destination.
@@ -111,7 +111,7 @@ No package dependencies — it builds straight away.
 ## Project Structure
 
 ```
-LiquidGlassButtonExample/
+LiquidGlassShowcase/
 ├── LiquidGlassApp.swift          # App entry point
 ├── MainView.swift                # Root navigation menu
 ├── BackgroundView.swift          # Shared full-bleed background image
